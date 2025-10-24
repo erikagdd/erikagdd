@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💻 Les Meues Estadístiques i Llenguatges
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=erikagdd&show_icons=true&theme=vue" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikagdd&layout=compact&theme=vue" alt="Top Languages" />
+</a>
